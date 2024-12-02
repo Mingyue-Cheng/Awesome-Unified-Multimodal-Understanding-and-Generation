@@ -1,6 +1,19 @@
 # Awesome-Unified-Multimodal-Understanding-and-Generation
 
-Main technique path: Auto-regressive Generation + Diffusion
+## Presvious Works about Multimodal Understanding and Generation
+
+### Multimodal Understanding
+- LLaVA
+- MiniGPT4
+- BLIP
+- Deepseek-vl
+- InternVL
+- Qwen-VL
+
+### Multimodal Generation
+
+
+# Main technique path: Auto-regressive Generation + Diffusion
 
 ## Industry
 ### FAIR at Meta
