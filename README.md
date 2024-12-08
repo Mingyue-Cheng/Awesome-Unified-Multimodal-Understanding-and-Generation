@@ -13,7 +13,12 @@
 ### Multimodal Generation
 
 
+
 # Main technique path: Auto-regressive Generation + Diffusion
+
+## Tokenizer
+- Qu, Liao, Huichao Zhang, Yiheng Liu, Xu Wang, Yi Jiang, Yiming Gao, Hu Ye, Daniel K. Du, Zehuan Yuan, and Xinglong Wu. "TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation." arXiv preprint arXiv:2412.03069 (2024).
+
 
 ## Industry
 ### Meta
