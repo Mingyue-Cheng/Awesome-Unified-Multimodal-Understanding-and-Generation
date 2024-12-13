@@ -1,4 +1,5 @@
 # Awesome Unified Multimodal Understanding and Generation
+![12](https://github.com/user-attachments/assets/d12e541f-514d-481d-8d7f-91e793680fb6)
 
 A **curated list of papers, models, and resources** dedicated to **unified multimodal understanding and generation**, with a focus on research that seamlessly integrates multimodal comprehension (e.g., interpreting and aligning text, images, and other modalities) with the ability to generate high-quality multimodal outputs. This repository serves as a **comprehensive entry point** for researchers, engineers, and practitioners interested in developing models and systems that unify understanding and generation tasks across modalities.
 
@@ -148,6 +149,15 @@ Recommended contributions include:
 - Suggesting reorganizations or new categories to enhance discoverability and clarity.
 
 ---
+
+## Logo Description
+
+This logo was generated using **ChatGPT** in collaboration with the **DALL·E** model. It is specifically designed for the "Awesome Multimodal Understanding and Generation" repository, symbolizing the integration of text, images, and audio. The design features a modern, minimalistic flat style with clean geometric shapes and subtle gradients from blue to cyan, representing innovation, unity, and scalability.
+
+**Prompt used for generation:**
+A modern, minimalistic flat logo representing multimodal understanding and generation. The logo incorporates symbols of text, images, and audio, represented by geometric shapes such as a paragraph icon, a picture frame, and sound waves. The design uses a clean, geometric style with subtle gradients of blue and cyan, creating a sense of innovation, unity, and scalability. The background is white, ensuring the logo stands out clearly.
+
+
 
 ## License
 
