@@ -1,7 +1,3 @@
-Below is an enhanced version of the README with improved structure, clarity, and consistency, as well as some additional contextual information to enrich the reader’s understanding.
-
----
-
 # Awesome Unified Multimodal Understanding and Generation
 
 A **curated list of papers, models, and resources** dedicated to **unified multimodal understanding and generation**, with a focus on research that seamlessly integrates multimodal comprehension (e.g., interpreting and aligning text, images, and other modalities) with the ability to generate high-quality multimodal outputs. This repository serves as a **comprehensive entry point** for researchers, engineers, and practitioners interested in developing models and systems that unify understanding and generation tasks across modalities.
