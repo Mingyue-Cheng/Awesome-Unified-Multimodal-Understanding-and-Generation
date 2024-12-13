@@ -1,7 +1,3 @@
-下面是经过完善和扩展的README文件示例。可根据实际需求进行适当修改和补充。
-
----
-
 # Awesome Unified Multimodal Understanding and Generation
 
 A **curated list of papers, models, and resources** for **unified multimodal understanding and generation**, focusing on research that bridges multimodal comprehension (e.g., aligning and interpreting text, images, and other modalities) with the capability to generate high-quality multimodal outputs. This repository aims to serve as a comprehensive entry point for researchers, engineers, and practitioners who are interested in building and exploring models that seamlessly unify understanding and generation tasks.
