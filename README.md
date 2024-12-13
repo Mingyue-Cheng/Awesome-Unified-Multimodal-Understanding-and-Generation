@@ -1,8 +1,4 @@
 # Awesome Unified Multimodal Understanding and Generation
-![12](https://github.com/user-attachments/assets/d12e541f-514d-481d-8d7f-91e793680fb6)
-
-<img src="https://github.com/user-attachments/assets/d12e541f-514d-481d-8d7f-91e793680fb6" alt="Logo" style="width: 50%; max-width: 500px;"/>
-
 <div align="center">
   <img src="https://github.com/user-attachments/assets/d12e541f-514d-481d-8d7f-91e793680fb6" alt="Logo" width="500"/>
 </div>
