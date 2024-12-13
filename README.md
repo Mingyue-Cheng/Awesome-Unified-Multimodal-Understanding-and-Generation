@@ -1,8 +1,7 @@
 # Awesome-Unified-Multimodal-Understanding-and-Generation
 
-## Presvious Works about Multimodal Understanding and Generation
-
-### Multimodal Understanding
+# Presvious Works about Multimodal Understanding and Generation
+## Multimodal Understanding
 - LLaVA
 - MiniGPT4
 - BLIP
@@ -10,15 +9,15 @@
 - InternVL
 - Qwen-VL
 
-### Multimodal Generation
-## Auto-regressive Models
+## Multimodal Generation
+### Auto-regressive Models
 - PixelRNN
 - PixelCNN
 - LLamagen
-## Diffusion Model
-### Continuous Diffusion
+### Diffusion Model
+#### Continuous Diffusion
 - DDPM
-### Discrete Diffusion
+#### Discrete Diffusion
 - D3PM
 - MaskGIT
 
