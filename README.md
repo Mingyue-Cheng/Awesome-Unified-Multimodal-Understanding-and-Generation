@@ -1,38 +1,100 @@
-# Awesome-Unified-Multimodal-Understanding-and-Generation
+# Awesome Unified Multimodal Understanding and Generation
 
-# Presvious Works about Multimodal Understanding and Generation
-## Multimodal Understanding
-- LLaVA
-- MiniGPT4
-- BLIP
-- Deepseek-vl
-- InternVL
-- Qwen-VL
+A curated list of papers, models, and resources for **unified multimodal understanding and generation**, covering foundational works, auto-regressive models, diffusion models, and state-of-the-art unified frameworks. This repository aims to provide researchers and practitioners with a comprehensive resource to explore advancements in this field.
 
-## Multimodal Generation
-### Auto-regressive Models
-- PixelRNN
-- PixelCNN
-- LLamagen
-### Diffusion Model
-#### Continuous Diffusion
-- DDPM
-#### Discrete Diffusion
-- D3PM
-- MaskGIT
+## Categories
+- **Multimodal Understanding**: Explore models designed for comprehending multimodal data, including image-text alignment, visual reasoning, and contextual understanding.
+- **Multimodal Generation**: Discover approaches for generating multimodal content, including images, text, and other modalities.
+- **Unified Frameworks**: Investigate works that unify multimodal understanding and generation using innovative techniques like autoregressive modeling and diffusion models.
 
-# Unified Multimodal Understanding and Generation with Auto-regressive + Diffusion
-- Dong, Runpei, Chunrui Han, Yuang Peng, Zekun Qi, Zheng Ge, Jinrong Yang, Liang Zhao et al. "Dreamllm: Synergistic multimodal comprehension and creation." arXiv preprint arXiv:2309.11499 (2023).
-- Team, Chameleon. "Chameleon: Mixed-modal early-fusion foundation models." arXiv preprint arXiv:2405.09818 (2024).
-- Zhou, Chunting, Lili Yu, Arun Babu, Kushal Tirumala, Michihiro Yasunaga, Leonid Shamis, Jacob Kahn, Xuezhe Ma, Luke Zettlemoyer, and Omer Levy. "Transfusion: Predict the next token and diffuse images with one multi-modal model." arXiv preprint arXiv:2408.11039 (2024).
-- Wu, Shengqiong, Hao Fei, Leigang Qu, Wei Ji, and Tat-Seng Chua. "Next-gpt: Any-to-any multimodal llm." arXiv preprint arXiv:2309.05519 (2023).
-- Wu, Chengyue, Xiaokang Chen, Zhiyu Wu, Yiyang Ma, Xingchao Liu, Zizheng Pan, Wen Liu et al. "Janus: Decoupling visual encoding for unified multimodal understanding and generation." arXiv preprint arXiv:2410.13848 (2024).
-- Ma, Yiyang, Xingchao Liu, Xiaokang Chen, Wen Liu, Chengyue Wu, Zhiyu Wu, Zizheng Pan et al. "JanusFlow: Harmonizing Autoregression and Rectified Flow for Unified Multimodal Understanding and Generation." arXiv preprint arXiv:2411.07975 (2024).
-- Wang, Xinlong, Xiaosong Zhang, Zhengxiong Luo, Quan Sun, Yufeng Cui, Jinsheng Wang, Fan Zhang et al. "Emu3: Next-token prediction is all you need." arXiv preprint arXiv:2409.18869 (2024).
-- Xie, Jinheng, Weijia Mao, Zechen Bai, David Junhao Zhang, Weihao Wang, Kevin Qinghong Lin, Yuchao Gu, Zhijie Chen, Zhenheng Yang, and Mike Zheng Shou. "Show-o: One single transformer to unify multimodal understanding and generation." arXiv preprint arXiv:2408.12528 (2024).
-- Qu, Liao, Huichao Zhang, Yiheng Liu, Xu Wang, Yi Jiang, Yiming Gao, Hu Ye, Daniel K. Du, Zehuan Yuan, and Xinglong Wu. "TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation." arXiv preprint arXiv:2412.03069 (2024).
+---
 
+## Previous Works on Multimodal Understanding and Generation
 
+### Multimodal Understanding
+- **LLaVA**
+- **MiniGPT4**
+- **BLIP**
+- **Deepseek-VL**
+- **InternVL**
+- **Qwen-VL**
 
+### Multimodal Generation
 
+#### Auto-regressive Models
+- **PixelRNN**
+- **PixelCNN**
+- **LLamagen**
 
+#### Diffusion Models
+##### Continuous Diffusion
+- **DDPM**
+
+##### Discrete Diffusion
+- **D3PM**
+- **MaskGIT**
+
+---
+
+## Unified Multimodal Understanding and Generation
+
+These works unify multimodal understanding and generation by integrating autoregressive methods, diffusion models, and other innovative techniques.
+
+- **DreamLLM**  
+  *Runpei Dong et al.*  
+  *"Synergistic multimodal comprehension and creation."*  
+  [arXiv:2309.11499](https://arxiv.org/abs/2309.11499) (2023)
+
+- **Chameleon**  
+  *Chameleon Team*  
+  *"Mixed-modal early-fusion foundation models."*  
+  [arXiv:2405.09818](https://arxiv.org/abs/2405.09818) (2024)
+
+- **TransFusion**  
+  *Chunting Zhou et al.*  
+  *"Predict the next token and diffuse images with one multi-modal model."*  
+  [arXiv:2408.11039](https://arxiv.org/abs/2408.11039) (2024)
+
+- **Next-GPT**  
+  *Shengqiong Wu et al.*  
+  *"Any-to-any multimodal LLM."*  
+  [arXiv:2309.05519](https://arxiv.org/abs/2309.05519) (2023)
+
+- **Janus**  
+  *Chengyue Wu et al.*  
+  *"Decoupling visual encoding for unified multimodal understanding and generation."*  
+  [arXiv:2410.13848](https://arxiv.org/abs/2410.13848) (2024)
+
+- **JanusFlow**  
+  *Yiyang Ma et al.*  
+  *"Harmonizing autoregression and rectified flow for unified multimodal understanding and generation."*  
+  [arXiv:2411.07975](https://arxiv.org/abs/2411.07975) (2024)
+
+- **Emu3**  
+  *Xinlong Wang et al.*  
+  *"Next-token prediction is all you need."*  
+  [arXiv:2409.18869](https://arxiv.org/abs/2409.18869) (2024)
+
+- **Show-O**  
+  *Jinheng Xie et al.*  
+  *"One single transformer to unify multimodal understanding and generation."*  
+  [arXiv:2408.12528](https://arxiv.org/abs/2408.12528) (2024)
+
+- **TokenFlow**  
+  *Liao Qu et al.*  
+  *"Unified image tokenizer for multimodal understanding and generation."*  
+  [arXiv:2412.03069](https://arxiv.org/abs/2412.03069) (2024)
+
+---
+
+## Contributions
+Feel free to contribute by adding missing papers, models, or resources! Submit a pull request or open an issue with relevant details.
+
+---
+
+## License
+This repository is licensed under the [MIT License](LICENSE).
+
+---
+
+Happy exploring!
