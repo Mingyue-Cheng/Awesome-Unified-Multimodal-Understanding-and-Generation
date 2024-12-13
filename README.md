@@ -21,7 +21,7 @@
 - D3PM
 - MaskGIT
 
-# Main technique path: Auto-regressive + Diffusion
+# Unified Multimodal Understanding and Generation with Auto-regressive + Diffusion
 - Dong, Runpei, Chunrui Han, Yuang Peng, Zekun Qi, Zheng Ge, Jinrong Yang, Liang Zhao et al. "Dreamllm: Synergistic multimodal comprehension and creation." arXiv preprint arXiv:2309.11499 (2023).
 - Team, Chameleon. "Chameleon: Mixed-modal early-fusion foundation models." arXiv preprint arXiv:2405.09818 (2024).
 - Zhou, Chunting, Lili Yu, Arun Babu, Kushal Tirumala, Michihiro Yasunaga, Leonid Shamis, Jacob Kahn, Xuezhe Ma, Luke Zettlemoyer, and Omer Levy. "Transfusion: Predict the next token and diffuse images with one multi-modal model." arXiv preprint arXiv:2408.11039 (2024).
