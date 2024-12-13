@@ -1,6 +1,9 @@
 # Awesome Unified Multimodal Understanding and Generation
 ![12](https://github.com/user-attachments/assets/d12e541f-514d-481d-8d7f-91e793680fb6)
 
+<img src="https://github.com/user-attachments/assets/d12e541f-514d-481d-8d7f-91e793680fb6" alt="Logo" style="width: 50%; max-width: 500px;"/>
+
+
 A **curated list of papers, models, and resources** dedicated to **unified multimodal understanding and generation**, with a focus on research that seamlessly integrates multimodal comprehension (e.g., interpreting and aligning text, images, and other modalities) with the ability to generate high-quality multimodal outputs. This repository serves as a **comprehensive entry point** for researchers, engineers, and practitioners interested in developing models and systems that unify understanding and generation tasks across modalities.
 
 By aggregating foundational concepts, cutting-edge frameworks, and state-of-the-art approaches—ranging from autoregressive modeling to diffusion-based techniques—this list encourages a holistic view of the field, fosters comparative studies, and supports the development of next-generation multimodal systems.
