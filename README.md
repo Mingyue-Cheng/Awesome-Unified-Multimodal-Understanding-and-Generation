@@ -107,10 +107,7 @@ Below are cutting-edge works that integrate multimodal understanding and generat
   [arXiv:2405.09818](https://arxiv.org/abs/2405.09818)  
   *Key Insight*: Uses mixed-modal early fusion and a foundation model architecture to unify understanding and generation tasks.
 
-- **TransFusion** (2024)  
-  *Chunting Zhou et al.*  
-  [arXiv:2408.11039](https://arxiv.org/abs/2408.11039)  
-  *Key Insight*: Leverages both autoregressive prediction and diffusion to predict the next token/image patch, bridging understanding and generation.
+
 
 - **Next-GPT** (2023)  
   *Shengqiong Wu et al.*  
@@ -131,6 +128,15 @@ Below are cutting-edge works that integrate multimodal understanding and generat
   *Xinlong Wang et al.*  
   [arXiv:2409.18869](https://arxiv.org/abs/2409.18869)  
   *Key Insight*: Suggests that next-token prediction is all you need, simplifying the modeling paradigm for unified multimodal tasks.
+
+- *Li, Tianhong et al.*
+  [arXiv:2406.11838](https://arxiv.org/abs/2406.11838)
+  *Key Insight*:
+  
+- **TransFusion** (2024)  
+  *Chunting Zhou et al.*  
+  [arXiv:2408.11039](https://arxiv.org/abs/2408.11039)  
+  *Key Insight*: Leverages both autoregressive prediction and diffusion to predict the next token/image patch, bridging understanding and generation.
 
 - **Show-O** (2024)  
   *Jinheng Xie et al.*  
